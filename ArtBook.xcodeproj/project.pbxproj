@@ -17,6 +17,7 @@
 		0AB262D329ED65C100BEB845 /* ArtBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB262D229ED65C100BEB845 /* ArtBookTests.swift */; };
 		0AB262DD29ED65C100BEB845 /* ArtBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB262DC29ED65C100BEB845 /* ArtBookUITests.swift */; };
 		0AB262DF29ED65C100BEB845 /* ArtBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB262DE29ED65C100BEB845 /* ArtBookUITestsLaunchTests.swift */; };
+		0AB262EC29ED698400BEB845 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB262EB29ED698400BEB845 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0AB262D829ED65C100BEB845 /* ArtBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArtBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AB262DC29ED65C100BEB845 /* ArtBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookUITests.swift; sourceTree = "<group>"; };
 		0AB262DE29ED65C100BEB845 /* ArtBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0AB262EB29ED698400BEB845 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0AB262B829ED65C000BEB845 /* AppDelegate.swift */,
 				0AB262BA29ED65C000BEB845 /* SceneDelegate.swift */,
 				0AB262BC29ED65C000BEB845 /* ViewController.swift */,
+				0AB262EB29ED698400BEB845 /* DetailsVC.swift */,
 				0AB262BE29ED65C000BEB845 /* Main.storyboard */,
 				0AB262C429ED65C100BEB845 /* Assets.xcassets */,
 				0AB262C629ED65C100BEB845 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				0AB262B929ED65C000BEB845 /* AppDelegate.swift in Sources */,
 				0AB262C329ED65C000BEB845 /* ArtBook.xcdatamodeld in Sources */,
 				0AB262BB29ED65C000BEB845 /* SceneDelegate.swift in Sources */,
+				0AB262EC29ED698400BEB845 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
